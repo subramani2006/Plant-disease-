@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+matplotlib
+seaborn
+pandas
+streamlit
+librosa
+tensorflow==2.17.0
+gdown
+pillow

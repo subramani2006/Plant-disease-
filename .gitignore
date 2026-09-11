@@ -1,0 +1,11 @@
+# Ignore Python environment folders
+tf310/
+venv/
+.venv/
+
+# Ignore large system files
+*.pyd
+*.dll
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
